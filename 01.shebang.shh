@@ -1,4 +1,10 @@
-hfvgcbjdc
-lkjhgf
+#!/bin/bash
 
-kjhfgh
+# to print some messege on screen then
+# command : echo
+# syntax : eco Input
+
+echo Hello World
+
+# print multiple lines (Print a new line)
+echo Hello, How are you doing today, Good day
