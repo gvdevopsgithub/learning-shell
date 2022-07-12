@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a582ae0b-981c-4c84-ab41-af69c21782f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06.special-vars.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../05.special-vars.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning-shell" beforeDir="false" afterPath="$PROJECT_DIR$/../learning-shell" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/cart.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/catalogue.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/frontend.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/mongodb.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/mysql.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/payment.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/rabbitmq.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/redis.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/shipping.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/user.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/make fiel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-shell-script" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop.sh1" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BVv3cTB2QOy8MtmjIC4OTsbs6I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TF_FMT&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GITHUB-RITOS/learning-shell/roboshop-shell-script&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a582ae0b-981c-4c84-ab41-af69c21782f0" name="Changes" comment="" />
+      <created>1657003868407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657003868407</updated>
+    </task>
+    <task id="LOCAL-00001" summary="README 111">
+      <created>1657003985717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657003985717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="README 111222">
+      <created>1657004146049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657004146049</updated>
+    </task>
+    <task id="LOCAL-00003" summary="demo using intellij">
+      <created>1657004888406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657004888406</updated>
+    </task>
+    <task id="LOCAL-00004" summary="demo using intellij">
+      <created>1657017563567</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657017563567</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="README 111" />
+    <MESSAGE value="README 111222" />
+    <MESSAGE value="demo using intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo using intellij" />
+  </component>
+</project>

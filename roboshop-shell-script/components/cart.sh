@@ -1,1 +1,0 @@
-echo install cart component
