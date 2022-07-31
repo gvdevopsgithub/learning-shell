@@ -17,3 +17,5 @@ a=10
 ## access the function
 abc
 echo b = $b
+
+echo First Argument =$1
