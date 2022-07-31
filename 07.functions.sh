@@ -5,6 +5,7 @@ abc() {
   echo ABC function
   echo a= $a
   b=20
+  echo first argument = $1
 }
 
 #  Declare another function
