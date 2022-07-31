@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3eeff8fc-9fcd-4965-b855-0c5648ee58ee" name="Changes" comment="using demo intellij">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06.special-vars.sh" beforeDir="false" afterPath="$PROJECT_DIR$/05.special-vars.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning-shell" beforeDir="false" afterPath="$PROJECT_DIR$/learning-shell" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning-shell/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learning-shell/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning-shell/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/learning-shell/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/cart.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/catalogue.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/frontend.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/mongodb.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/mysql.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/payment.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/rabbitmq.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/redis.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/shipping.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/components/user.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/make fiel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/roboshop-shell-script" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-shell-script/roboshop.sh1" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +28,21 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TF_FMT&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GITHUB-RITOS/learning-shell/learning-shell&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TF_FMT": "false",
+    "last_opened_file_path": "C:/GITHUB-RITOS/Learning-terraform",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="learning-shell" />
