@@ -16,3 +16,4 @@ function xyz() {
 a=10
 ## access the function
 abc
+echo b = $b
