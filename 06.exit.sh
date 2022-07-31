@@ -1,4 +1,5 @@
 #!/bin/bash
 
 ls
-exit 0
+exit 10
+echo HELLO
