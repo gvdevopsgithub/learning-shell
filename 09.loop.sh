@@ -10,10 +10,13 @@
 # while uses expression
 # for uses inputs
 
-i=10
+i=0
 while [ $i -lt 2 ]; do
   echo Hello - $i
   i=$(($i+1))
 done
 
+for fruit in apple banana orange ; do
+  echo Fruit Name = $fruit
+done
 
