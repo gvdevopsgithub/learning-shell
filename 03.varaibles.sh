@@ -19,4 +19,4 @@ echo Welcome, Today date is $DATE
 
 
 # variable from command line
-echo c =$c
+echo c = $c
