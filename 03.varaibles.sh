@@ -25,3 +25,5 @@ a=100
 echo $a
 b=$((5+8))
 echo $b
+DATE=$(date +%F)
+echo Welcome,Today date is $DATE
