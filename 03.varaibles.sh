@@ -11,11 +11,12 @@ b=$((3+5))
 
 echo $b
 
-#
-##command substitution
-#DATE=$(date +%F)
-#
-#echo Welcome, Today date is $DATE
+
+#command substitution
+DATE=$(date +%F)
+
+echo Welcome, Today date is $DATE
+
 #
 ## variable from command line
 #echo c =$c
