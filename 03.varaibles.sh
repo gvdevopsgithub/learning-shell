@@ -7,14 +7,15 @@ a=100
 echo $a
 
 # Arithmetic substitution
-b=$((3=5))
+b=$((3+5))
 
-echo $b
-
-#command substitution
-DATE=$(date +%F)
-
-echo Welcome, Today date is $DATE
-
-# variable from command line
-echo c =$c
+#
+#echo $b
+#
+##command substitution
+#DATE=$(date +%F)
+#
+#echo Welcome, Today date is $DATE
+#
+## variable from command line
+#echo c =$c
