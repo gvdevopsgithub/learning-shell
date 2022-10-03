@@ -41,3 +41,6 @@ echo -e "hai,\nI am venkatesh,\nnice day"
 echo -e "venky\tkoushik"
 echo -e "abc\tedf"
 echo -e "a\tb"
+
+echo -e "\e[34mHello in BLUE color"
+echo "Hello in Normal text color"
