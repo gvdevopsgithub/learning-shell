@@ -12,4 +12,4 @@ echo Hello,How are you doing today, Good day
 echo -e "Hello,\nHow are you doing today.\nGood day"
 
 # Print a tab space using \t
-echo -e "a/tb"
+echo -e "a\tb"
