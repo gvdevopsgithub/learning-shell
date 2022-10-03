@@ -17,6 +17,6 @@ DATE=$(date +%F)
 
 echo Welcome, Today date is $DATE
 
-#
-## variable from command line
-#echo c =$c
+
+# variable from command line
+echo c =$c
