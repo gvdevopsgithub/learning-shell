@@ -4,3 +4,6 @@
 # syntax: echo INPUT
 
 echo Hello World
+
+# Print multiple lines (Print a new line)
+echo Hello,How are you doing today, Good day
