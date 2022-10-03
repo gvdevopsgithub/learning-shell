@@ -9,8 +9,8 @@ echo $a
 # Arithmetic substitution
 b=$((3+5))
 
-#
-#echo $b
+echo $b
+
 #
 ##command substitution
 #DATE=$(date +%F)
