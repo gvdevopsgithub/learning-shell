@@ -26,4 +26,4 @@ echo $a
 b=$((5+8))
 echo $b
 DATE=$(date +%F)
-echo Welcome,Today date is $DATE
+echo Welcome, Today date is $DATE
