@@ -30,5 +30,5 @@ echo -e "a\tb"
 # MAGENTA        35               \e[35m
 # CYAN           36               \e[36m
 
-echo -e "\e[31mHello in RED color"
+echo -e "\e[31mHello in RED color\e[0m"
 echo "Hello in Normal text color"
